@@ -14,6 +14,6 @@ Familiar things:
 
 Here my small stat on github
 
-<p align=""> <img src="" alt="cphikmawan" />
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=cphikmawan&show_icons=true&theme=gotham" alt="cphikmawan" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cphikmawan.cphikmawan)
