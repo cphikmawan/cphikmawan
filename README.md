@@ -3,7 +3,7 @@
 You can call me **Hikmawan**, im a Engineer from Indonesia.
 Here some information about me:
 
-- 🧑🏻‍💻 I’m currently working as Site Reliability Engineer at tiket.com
+- 🧑🏻‍💻 I’m currently working as Site Reliability Engineer
 - 🕵️‍♂️ I’m currently learning something cool?
 - 💬 Ask me about anything 👀
 - 😏 Fun fact: i like k-drama
